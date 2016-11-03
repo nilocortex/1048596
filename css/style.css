@@ -1,0 +1,87 @@
+body{
+background-color:black;
+color:red;
+display:flex;
+justify-content:center;
+align-items:center;
+}
+
+.ReadingSteiner{
+text-align:center;
+}
+.BlindSteiner{
+  display:none;
+
+}
+
+.nixie{
+max-width:10%;
+opacity:0.5
+}
+
+#zero{
+  animation-duration: 4s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  background-color:#c98b28;
+}
+#one{
+  animation-duration: 6s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  background-color:#c98b28;
+}
+#two{
+  animation-duration: 8s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  background-color:#c98b28;
+}
+#three{
+  animation-duration: 3s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  background-color:#c98b28;
+}
+#four{
+  animation-duration: 4s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  background-color:#c98b28;
+}
+#five{
+  animation-duration: 9s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  background-color:#c98b28;
+}
+#six{
+  animation-duration: 8s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  background-color:#c98b28;
+}
+#seven{
+  animation-duration: 5s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  background-color:#c98b28;
+}
+#eight{
+  animation-duration: 5s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  background-color:#c98b28;
+}
+#nine{
+  animation-duration: 5s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  background-color:#c98b28;
+}
+#point{
+  animation-duration: 5s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  background-color:#c98b28;
+}
